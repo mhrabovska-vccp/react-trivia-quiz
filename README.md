@@ -1,7 +1,5 @@
 # react-trivia-quiz
 
-![ukázka Superkvízu](superkviz-ukazka.jpg)
-
 ## API
 
 Data do aplikace vezmeš na následujících adresách:
